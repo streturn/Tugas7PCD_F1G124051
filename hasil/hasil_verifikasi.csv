@@ -1,0 +1,19 @@
+﻿Nama file,Jenis gambar,Hasil OCR,Status TTD,Persentase foreground (%),Nilai CER (%),Metode terbaik
+01_HighQuality_Enhanced (2).jpg,ASLI,,PRESENT,1.4,100.0,Grayscale
+01_HighQuality_Enhanced (2)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+02_LowContrast (3).jpg,ASLI,,ABSENT,0.35,100.0,Grayscale
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+03_Blurred (3).jpg,ASLI,,PRESENT,0.68,100.0,Grayscale
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+04_HighNoise (3).jpg,ASLI,,PRESENT,1.24,100.0,Grayscale
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+05_LowResolution_Upsampled (3).jpg,ASLI,,PRESENT,1.15,100.0,Grayscale
+05_LowResolution_Upsampled (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+06_Faded_Underexposed (3).jpg,ASLI,,PRESENT,2.38,100.0,Grayscale
+06_Faded_Underexposed (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+07_ColorShift_WarmTint (3).jpg,ASLI,,PRESENT,1.32,100.0,Grayscale
+07_ColorShift_WarmTint (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+08_JPEGCompression_Artifacts (3).jpg,ASLI,,PRESENT,1.24,100.0,Grayscale
+08_JPEGCompression_Artifacts (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
+09_CombinedDegradation (3).jpg,ASLI,,PRESENT,1.76,100.0,Grayscale
+09_CombinedDegradation (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.0,100.0,Grayscale
